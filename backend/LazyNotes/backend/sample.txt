@@ -1,0 +1,5 @@
+﻿Photosynthesis is the process by which green plants convert light energy into chemical energy.
+It takes place in the chloroplasts, which contain the pigment chlorophyll. Chlorophyll absorbs
+mainly red and blue light. The overall process uses carbon dioxide and water to produce glucose
+and oxygen. The light-dependent reactions occur in the thylakoid membranes, while the Calvin
+cycle takes place in the stroma.
